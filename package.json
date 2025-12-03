@@ -1,0 +1,12 @@
+{
+  "name": "rixx-razorpay-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "dependencies": {
+    "razorpay": "^2.9.5"
+  }
+}
